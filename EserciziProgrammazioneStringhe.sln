@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EserciziStringhe", "EserciziStringhe\EserciziStringhe.csproj", "{3210CFCE-4489-4CF8-811C-77BC3AE12A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaStringhe", "ProvaStringhe\ProvaStringhe.csproj", "{566466E9-C1E1-44B2-9BAF-CF419CAE99BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3210CFCE-4489-4CF8-811C-77BC3AE12A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3210CFCE-4489-4CF8-811C-77BC3AE12A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3210CFCE-4489-4CF8-811C-77BC3AE12A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3210CFCE-4489-4CF8-811C-77BC3AE12A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566466E9-C1E1-44B2-9BAF-CF419CAE99BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566466E9-C1E1-44B2-9BAF-CF419CAE99BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566466E9-C1E1-44B2-9BAF-CF419CAE99BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566466E9-C1E1-44B2-9BAF-CF419CAE99BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E35706-9748-43F3-B4A1-80D67401CA02}
+	EndGlobalSection
+EndGlobal
